@@ -11,7 +11,7 @@ The DriverPass project involved designing a system for DriverPass, a company foc
 I excelled in gathering and documenting detailed requirements for the Business Requirements Document. By conducting thorough interviews with the client and creating clear use cases, I ensured that the document captured both functional and non-functional requirements accurately. Additionally, in the System Design Document, I effectively translated these requirements into a modular system architecture, using diagrams like UML and ERD to communicate the design clearly.
 
 ### Part to Revise and Improve
-If I could revise one part, I would focus on the user interface mockups in the System Design Document. While functional, they lacked sufficient detail on user experience elements like accessibility features and responsive design. To improve, I would incorporate wireframes with annotations for accessibility (e.g., screen reader compatibility) and ensure the design adapts seamlessly across devices, enhancing usability for a broader audience.
+If I could revise one part, I would focus on the refining my UML digrams more.
 
 ### Interpreting and Implementing User Needs
 To interpret the user’s needs, I used techniques like stakeholder interviews, surveys, and persona development to understand the perspectives of both students and administrators. These insights were translated into system features, such as a user-friendly dashboard for students to track progress and a scheduling tool for administrators. Considering user needs is critical because a system that aligns with user expectations is more likely to be adopted and effective. Neglecting this can lead to usability issues, reduced satisfaction, and project failure.
